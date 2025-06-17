@@ -1,12 +1,10 @@
-# MACHINE-LEARNING-MODEL-IMPLEMENTATION
-
 COMPANY : CODTECH IT SOLUTIONS
 NAME : SUNKARI VINAY KUMAR
 INTERN ID : CT04DN68
 DOMAIN : PYTHON PROGRAMMING
 MENTOR : NEELA SANTOSH
 
-#  SMS Spam Detection using Machine Learning (Naive Bayes)
+# MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
 A simple machine learning model implemented in Python using **Scikit-Learn** and **Naive Bayes** classifier to classify SMS messages as **Spam** or **Ham (Not Spam)**.
 
